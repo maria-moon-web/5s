@@ -1,0 +1,13 @@
+body{
+        background: url(disciplina.jpg);
+        background-color:black
+    }
+h1{
+    color:rgb(223, 240, 227)
+}
+p{
+    color: rgba(230, 241, 235, 0.808);
+}
+h1{
+    margin: 80px;
+}
